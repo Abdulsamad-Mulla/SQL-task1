@@ -1,5 +1,4 @@
 # SQL-task1
-# SQL Practice Project
 
 This repository contains SQL practice questions and solutions based on Employee and Department tables.
 
